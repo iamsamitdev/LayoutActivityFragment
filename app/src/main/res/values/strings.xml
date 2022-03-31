@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LayoutActivityFragment</string>
+    <string name="logo_app_description">Logo App</string>
+    <string name="e_mail_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="forgot_password_text">Forgot Password ?</string>
+    <string name="dont_have_and_account">Dont\'t have and account ? Sign up here</string>
+    <string name="logo_register_desc">Logo Register</string>
+    <string name="username_hint">Username</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="register_text">Register</string>
+    <string name="already_have">Already have an account? Login here</string>
+    <string name="reset_password_text">Reset Password</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="forgot_password_title_toolbar">Forgot Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment_text">First Fragment</string>
+    <string name="second_fragment_text">Second Fragment</string>
+    <string name="btnNext">Next</string>
+    <string name="third_fragment_text">Third Fragment</string>
+</resources>
